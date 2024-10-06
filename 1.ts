@@ -6,7 +6,7 @@ let profile: undefined = undefined
 let city: null = null
 
 let hasCar: unknown = null
-let dogName: any = true
+let dogName: any = 'bingo'
 
 const userProfile: {
   firstName: string
