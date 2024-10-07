@@ -14,6 +14,7 @@ class Animal {
 }
 
 const cat = new Animal('Cat', 5)
+cat.age = 6
 
 /* interface */
 interface IProfile extends IWork {
